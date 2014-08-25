@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\ChattingOnline\HYTC.Exercise\HYTC.Exercise\bin\Debug\HYTC.Exercise.exe
+C:\Users\Student\Desktop\ChattingOnline\HYTC.Exercise\HYTC.Exercise\bin\Debug\HYTC.Exercise.pdb
+C:\Users\Student\Desktop\ChattingOnline\HYTC.Exercise\HYTC.Exercise\obj\x86\Debug\HYTC.Exercise.FrmMain.resources
+C:\Users\Student\Desktop\ChattingOnline\HYTC.Exercise\HYTC.Exercise\obj\x86\Debug\HYTC.Exercise.Properties.Resources.resources
+C:\Users\Student\Desktop\ChattingOnline\HYTC.Exercise\HYTC.Exercise\obj\x86\Debug\HYTC.Exercise.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\ChattingOnline\HYTC.Exercise\HYTC.Exercise\obj\x86\Debug\HYTC.Exercise.exe
+C:\Users\Student\Desktop\ChattingOnline\HYTC.Exercise\HYTC.Exercise\obj\x86\Debug\HYTC.Exercise.pdb
