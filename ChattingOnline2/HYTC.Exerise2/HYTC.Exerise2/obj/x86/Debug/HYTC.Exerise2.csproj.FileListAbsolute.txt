@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\bin\Debug\HYTC.Exerise2.exe
+C:\Users\Student\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\bin\Debug\HYTC.Exerise2.pdb
+C:\Users\Student\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Debug\HYTC.Exerise2.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Debug\HYTC.Exerise2.FrmMain.resources
+C:\Users\Student\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Debug\HYTC.Exerise2.Properties.Resources.resources
+C:\Users\Student\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Debug\HYTC.Exerise2.UCFriend.resources
+C:\Users\Student\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Debug\HYTC.Exerise2.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Debug\HYTC.Exerise2.exe
+C:\Users\Student\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Debug\HYTC.Exerise2.pdb
+C:\Users\Student\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Debug\HYTC.Exerise2.FrmChat.resources
