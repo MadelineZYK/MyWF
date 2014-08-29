@@ -11,6 +11,8 @@ namespace HYTC.Exerise2
 {
     public partial class UCFriend : UserControl
     {
+        public delegate void deldoubleclick(object o, EventArgs e);
+        public event deldoubleclick myDBClick;
         private FrmMain frm;
 
         public FrmMain Frm
@@ -41,6 +43,26 @@ namespace HYTC.Exerise2
         private void UCFriend_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void picHeadImage_DoubleClick(object sender, EventArgs e)
+        {
+            this.myDBClick(this, e);
+        }
+
+        private void lblNickName_DoubleClick(object sender, EventArgs e)
+        {
+            this.myDBClick(this, e);
+        }
+
+        private void lblShuoshuo_DoubleClick(object sender, EventArgs e)
+        {
+            this.myDBClick(this, e);
+        }
+
+        private void UCFriend_DoubleClick(object sender, EventArgs e)
+        {
+            this.myDBClick(sender, e);
         }
 
 

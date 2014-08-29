@@ -55,11 +55,11 @@ namespace HYTC.Exerise2
             ucf.CurFriend = f;
             ucf.Top = this.pnFriendsList.Controls.Count * ucf.Height;
             ucf.Width = ucf.Width - 30;
-            ucf.DoubleClick += ucf_DoubleClick;
+            ucf.myDBClick += ucf_myDBClick;
             this.pnFriendsList.Controls.Add(ucf);
         }
 
-        void ucf_DoubleClick(object sender, EventArgs e)
+        void ucf_myDBClick(object sender, EventArgs e)
         {
             //获取当前被双击的这个用户控件对象的curFriend属性
             UCFriend ucf = (UCFriend)sender;
@@ -67,21 +67,36 @@ namespace HYTC.Exerise2
             frm.Show();
         }
 
+
         public void RemoveUcf(UCFriend ucf)
         {
             
             this.pnFriendsList.Controls.Remove(ucf);
         }
 
-        private void FrmMain_FormClosing(object sender, FormClosingEventArgs e)
+        //private void FrmMain_FormClosing(object sender, FormClosingEventArgs e)
+        //{
+        //    IPAddress myIP = Operation.getMyIP();
+        //    UdpClient uc = new UdpClient();
+        //    string myNickName = myIP.ToString();
+        //    string msg = "LOGOUT|";
+        //    byte[] bmsg = Encoding.Default.GetBytes(msg);
+        //    uc.Send(bmsg, bmsg.Length, new IPEndPoint(IPAddress.Parse("255.255.255.255"), 9527));
+        //    th.Abort();
+        //}
+
+        public Panel getPanel()
         {
-            IPAddress myIP = Operation.getMyIP();
+            return this.pnFriendsList;
+        }
+
+        private void FrmMain_FormClosed(object sender, FormClosedEventArgs e)
+        {
             UdpClient uc = new UdpClient();
-            string myNickName = myIP.ToString();
-            string msg = "LOGOUT|";
-            byte[] bmsg = Encoding.Default.GetBytes(msg);
-            uc.Send(bmsg, bmsg.Length, new IPEndPoint(IPAddress.Parse("255.255.255.255"), 9527));
-            th.Abort();
+            string msg = "LOGOUT";
+            byte[] bMsg = Encoding.Default.GetBytes(msg);
+            uc.Send(bMsg, bMsg.Length, new IPEndPoint(IPAddress.Parse("255.255.255.255"), 9527));
+
         }
 
     }

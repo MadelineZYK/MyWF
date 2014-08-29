@@ -94,7 +94,7 @@
             this.Controls.Add(this.pbHeadImage);
             this.Name = "FrmMain";
             this.Text = "聊天……";
-            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmMain_FormClosing);
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.FrmMain_FormClosed);
             this.Load += new System.EventHandler(this.FrmMain_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pbHeadImage)).EndInit();
             this.ResumeLayout(false);
@@ -105,7 +105,7 @@
         #endregion
 
         private System.Windows.Forms.PictureBox pbHeadImage;
-        public System.Windows.Forms.Panel pnFriendsList;
+        private System.Windows.Forms.Panel pnFriendsList;
         private System.Windows.Forms.Label lblNickName;
         private System.Windows.Forms.Label lblShuoshuo;
         public System.Windows.Forms.ImageList ilHeadImages;

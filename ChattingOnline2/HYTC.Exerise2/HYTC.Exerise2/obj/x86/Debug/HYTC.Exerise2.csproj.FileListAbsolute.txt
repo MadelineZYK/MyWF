@@ -8,3 +8,14 @@ C:\Users\Student\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Deb
 C:\Users\Student\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Debug\HYTC.Exerise2.exe
 C:\Users\Student\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Debug\HYTC.Exerise2.pdb
 C:\Users\Student\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Debug\HYTC.Exerise2.FrmChat.resources
+C:\Users\Administrator\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Debug\HYTC.Exerise2.exe
+C:\Users\Administrator\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Debug\HYTC.Exerise2.pdb
+C:\Users\Administrator\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Debug\HYTC.Exerise2.FrmChat.resources
+C:\Users\Administrator\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Debug\HYTC.Exerise2.FrmMain.resources
+C:\Users\Administrator\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Debug\HYTC.Exerise2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Debug\HYTC.Exerise2.UCFriend.resources
+C:\Users\Administrator\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\bin\Debug\HYTC.Exerise2.exe
+C:\Users\Administrator\Desktop\ChattingOnline2\HYTC.Exerise2\HYTC.Exerise2\bin\Debug\HYTC.Exerise2.pdb
